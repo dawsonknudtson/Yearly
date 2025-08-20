@@ -1,10 +1,3 @@
-//
-//  Item.swift
-//  Yearly
-//
-//  Created by Dawson Knudtson on 8/20/25.
-//
-
 import Foundation
 import SwiftData
 
