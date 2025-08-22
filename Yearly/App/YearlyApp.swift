@@ -5,7 +5,7 @@ import SwiftData
 struct YearlyApp: App {
     var sharedModelContainer: ModelContainer = {
         let schema = Schema([
-            Item.self,
+            
         ])
         let modelConfiguration = ModelConfiguration(schema: schema, isStoredInMemoryOnly: false)
 
@@ -18,7 +18,7 @@ struct YearlyApp: App {
 
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            // Model Here to Show (Into / Onboarding)
         }
         .modelContainer(sharedModelContainer)
     }

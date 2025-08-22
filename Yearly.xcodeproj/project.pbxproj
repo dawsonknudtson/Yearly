@@ -14,7 +14,7 @@
 		A8F22A2D2E56852C00C06CB4 /* Exceptions for "Yearly" folder in "Yearly" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Info.plist,
+				Resources/Info.plist,
 			);
 			target = A8F22A1F2E56852B00C06CB4 /* Yearly */;
 		};
